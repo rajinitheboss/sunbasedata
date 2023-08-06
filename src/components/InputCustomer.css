@@ -1,0 +1,16 @@
+#successAlert{
+    background-color: green;
+    
+}
+#errorAlert{
+    background-color: red;
+
+}
+
+.column{
+    display:flex;
+    align-items: center;
+}
+label{
+    margin-right: right;
+}
